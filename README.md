@@ -10,3 +10,8 @@ https://app.patika.dev/courses/smart-contract-development-with-solidity/hands-ta
 Hands on Task (Intermediate Level): Build and Deploy a To-Do List
 
 https://app.patika.dev/courses/smart-contract-development-with-solidity/hands-taskbuild-deploy-to-do-list
+
+## #3 [CrowdFund](CrowdFund.sol)
+Hands on Task (Intermediate Level): Build and Deploy a Crowdfund Application
+
+https://app.patika.dev/courses/smart-contract-development-with-solidity/hands-task-build-deploy-crowdfund-application
